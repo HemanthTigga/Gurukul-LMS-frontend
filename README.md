@@ -35,3 +35,4 @@ Backend:-
 
 **Database:** MongoDB
 
+**Services:** EmailJS
